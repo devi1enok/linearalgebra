@@ -1,6 +1,7 @@
 # Linear Algebra
 # 🧮 Gaussian Elimination Method (Python)
 
+
 This project demonstrates how to solve a **system of linear equations** using the **Gaussian elimination method** in Python.  
 It was created for study purposes (Linear Algebra class, AI major at Kookmin University 🇰🇷).
 
@@ -61,5 +62,8 @@ if any(math.isnan(val) or math.isinf(val) for val in result):
 else: 
     formatted_result = [round(val, 2) for val in result] 
 print("Simultaneous equations solution:", formatted_result)
+```
+
+## 🧾 Output
 
 Simultaneous equations solution: [2.0, 1.0, 3.0]
