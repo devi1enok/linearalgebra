@@ -1,4 +1,4 @@
-# linearalgebra
+# Linear Algebra
 # 🧮 Gaussian Elimination Method (Python)
 
 This project demonstrates how to solve a **system of linear equations** using the **Gaussian elimination method** in Python.  
